@@ -7,6 +7,8 @@ This portfolio uses quantitative analysis to compare the performance of several 
 
 This project works with Python 3.9 and requires the installation of the Pandas, pathlib, numpy, and matplotlib libraries for proper functioning.
 
+Python - Computer programming language often used to build websites and software, automate tasks, and conduct data analysis.
+
 Pandas - Widely used open-source data analysis and data manipulation library in Python.
 
 pathlib - The Path class from the pathlib module is used to represent a file system path.
@@ -19,6 +21,15 @@ matplotlib - A plotting library for the Python programming language that provide
 # Installation 
 
 Ensure that you have installed the necessary dependencies to run the program
+
+python:
+
+https://www.python.org/
+
+<img width="180" alt="Pythonversion" src="https://user-images.githubusercontent.com/107937930/185713885-d96744c1-423d-44cb-a16c-521a439c26cc.png">
+
+
+
 
 
 ---
